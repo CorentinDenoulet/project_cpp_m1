@@ -14,14 +14,14 @@ Le jeu se termine lorsque tous les membre d'une équipe sont morts.
 1. Cloner le porjet.
 	
 Sous Windows :
-	2. Installer `cygwin` avec les options `g++` et `make`.
-	3. Dans la console cygwin se placer dans le dossier du projet puis build avec `make`.
-	4. Lancer le jeux avec `./project_cpp.
+2. Installer `cygwin` avec les options `g++` et `make`.
+3. Dans la console cygwin se placer dans le dossier du projet puis build avec `make`.
+4. Lancer le jeux avec `./project_cpp.
  
 Sous Linux :
-	2. Intaller `gpp` avec `sudo apt install g++`
-	3. Dans un terminal de commande, se placer dans le dossier du projet puis build avec `make`.
-	4. Lancer le jeux avec `./project_cpp.
+2. Intaller `gpp` avec `sudo apt install g++`
+3. Dans un terminal de commande, se placer dans le dossier du projet puis build avec `make`.
+4. Lancer le jeux avec `./project_cpp.
 
 ### Contact :
 ---
