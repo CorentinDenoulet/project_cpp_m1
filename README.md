@@ -15,13 +15,13 @@ Le jeu se termine lorsque tous les membre d'une équipe sont morts.
 	
 Sous Windows :
 - Installer `cygwin` avec les options `g++` et `make`.
-3. Dans la console cygwin se placer dans le dossier du projet puis build avec `make`.
-4. Lancer le jeux avec `./project_cpp.
+- Dans la console cygwin se placer dans le dossier du projet puis build avec `make`.
+- Lancer le jeux avec `./project_cpp.
  
 Sous Linux :
-2. Intaller `gpp` avec `sudo apt install g++`
-3. Dans un terminal de commande, se placer dans le dossier du projet puis build avec `make`.
-4. Lancer le jeux avec `./project_cpp.
+- Intaller `gpp` avec `sudo apt install g++`
+- Dans un terminal de commande, se placer dans le dossier du projet puis build avec `make`.
+- Lancer le jeux avec `./project_cpp.
 
 ### Contact :
 ---
