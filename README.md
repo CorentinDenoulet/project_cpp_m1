@@ -18,7 +18,7 @@ Sous Windows :
 3. Dans la console cygwin se placer dans le dossier du projet puis build avec `make`.
 4. Lancer le jeux avec `./project_cpp.
  
-Sous Linux :
+Sous Linux :\n
 2. Intaller `gpp` avec `sudo apt install g++`
 3. Dans un terminal de commande, se placer dans le dossier du projet puis build avec `make`.
 4. Lancer le jeux avec `./project_cpp.
