@@ -18,6 +18,7 @@ class Personnage
     Personnage(int vie, int defense, int degats, std::string arme, std::string nom);
     void Attaquer(Personnage *p);
     void Defendre(Personnage *p);
+    void BaisserDefense(Personnage *p);
     int recupererVie();
     int recupererDefense();
     int recupererDegats();

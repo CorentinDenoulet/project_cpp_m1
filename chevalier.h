@@ -9,7 +9,7 @@ class Chevalier : public Hero
 {
     public:
     Chevalier(std::string arme, std::string nom);
-    void superPower();
+    void superPouvoir();
 };
 
 #endif

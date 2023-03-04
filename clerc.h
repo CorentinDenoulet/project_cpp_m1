@@ -9,7 +9,7 @@ class Clerc : public Hero
 {
     public:
     Clerc(std::string arme, std::string nom);
-    void superPower();
+    void superPouvoir();
 };
 
 #endif

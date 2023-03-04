@@ -9,7 +9,7 @@ class Ninja : public Hero
 {
     public:
     Ninja(std::string arme, std::string nom);
-    void superPower();
+    void superPouvoir();
 };
 
 #endif
