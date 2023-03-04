@@ -11,7 +11,7 @@ Le jeu se termine lorsque tous les membre d'une équipe sont morts.
 
 ### Comment jouer :
 ------------------------------------------------------
-	1. Cloner le porjet.
+1. Cloner le porjet.
 	
 Sous Windows :
 	2. Installer `cygwin` avec les options `g++` et `make`.
