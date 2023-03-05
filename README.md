@@ -6,8 +6,8 @@
 ___
 Ceci est mon projet de fin de semestre de C++ de M1 à JUNIA ISEN !
 
-Le principe est simple, c'est un jeu au tour par tour opposant 4 héros 10 monstre. Chaque héros possède un pouvoir spécial en fonction de sa classe et les monstre sont de deux différentes.
-Le jeu se termine lorsque tous les membre d'une équipe sont morts.
+Le principe est simple, c'est un jeu au tour par tour opposant 4 héros 10 monstre. Chaque héros possèdent un pouvoir spécial en fonction de sa classe et les monstres sont de deux différentes.
+Le jeu se termine lorsque tous les membrse d'une équipe sont morts.
 
 ### Comment jouer :
 ------------------------------------------------------
